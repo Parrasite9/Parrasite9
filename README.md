@@ -5,11 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parrasite9" alt="parrasite9" /></a> </p>
 
-- 🔭 I’m currently working on [disneyplus](https://github.com/Parrasite9/disneyplus)
+- 🔭 I’m currently working on [Panther Pictures](https://github.com/Parrasite9/PantherPictures)
 
 - 🌱 I’m currently learning **React, Redux, & Firebase**
 
-- 🤝 My most recent completed project [AmazonClone](https://challenge-380a7.firebaseapp.com/)
+- ❤️ My favorite project is [Disney+ Clone](https://github.com/Parrasite9/disneyplus)
+
+- 🤝 My most recent completed project [Disney+ Clone](https://challenge-380a7.firebaseapp.com/)
 
 - 👨‍💻 All of my major projects are available at [https://johnsonwebsolutions.com/](https://johnsonwebsolutions.com/)
 
