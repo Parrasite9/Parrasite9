@@ -11,7 +11,7 @@
 
 - ❤️ My favorite project is [Disney+ Clone](https://github.com/Parrasite9/disneyplus)
 
-- 🤝 My most recent completed project [Disney+ Clone](https://challenge-380a7.firebaseapp.com/)
+- 🤝 My most recent completed project [Panther Pictures](https://github.com/Parrasite9/PantherPictures)
 
 - 👨‍💻 All of my major projects are available at [https://johnsonwebsolutions.com/](https://johnsonwebsolutions.com/)
 
