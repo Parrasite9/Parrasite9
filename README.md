@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parrasite9" alt="parrasite9" /></a> </p>
 
-- 🔭 I’m currently working on [Panther Pictures](https://github.com/Parrasite9/PantherPictures)
+- 🔭 I’m currently working on [Cut Critic](https://github.com/Parrasite9/cutcritic)
 
 - 🌱 I’m currently learning **React, Redux, & Firebase**
 
