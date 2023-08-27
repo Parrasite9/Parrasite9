@@ -5,19 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parrasite9" alt="parrasite9" /></a> </p>
 
-- 🔭 I’m currently working on [Cut Critic](https://github.com/Parrasite9/cutcritic)
+- 🔭 I’m currently working on [PeachyCleanPaws](https://github.com/Parrasite9/peachyCleanPaws)
 
 - 🌱 I’m currently learning **React, Redux, & Firebase**
 
 - ❤️ My favorite project is [Disney+ Clone](https://github.com/Parrasite9/disneyplus)
 
-- 🤝 My most recent completed project [Panther Pictures](https://github.com/Parrasite9/PantherPictures)
+- 🤝 My most recent completed project [Cut Critic](https://cutcritic-940d1.web.app/)
 
 - 👨‍💻 All of my major projects are available at [https://johnsonwebsolutions.com/](https://johnsonwebsolutions.com/)
 
 - 💬 Ask me about **anything!**
 
 - 📫 How to reach me **johnsonisaiah13@yahoo.com**
+
+- ⚡ Fun fact **Im the funniest person I know!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
