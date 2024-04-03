@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [PeachyCleanPaws](https://github.com/Parrasite9/peachyCleanPaws)
 
-- 🌱 I’m currently learning **React, Redux, & Firebase**
+- 🌱 I’m currently learning **React, Redux, & AWS**
 
 - ❤️ My favorite project is [Disney+ Clone](https://github.com/Parrasite9/disneyplus)
 
