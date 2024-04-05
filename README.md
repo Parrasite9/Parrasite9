@@ -35,21 +35,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parrasite9&show_icons=true&locale=en" alt="parrasite9" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parrasite9&" alt="parrasite9" /></p>
-
-<!-- Put this code anywhere in the body of your page where you want the badge to show up. -->
-
-<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
-     <a itemprop='url' href=https://www.fiverr.com/parrasite9 rel="nofollow" target="_blank" style='display: inline-block;'>
-        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-31853610-92b0-4393-bbbd-9eb365d373d2' itemprop='contentURL' style='display: none;'></div>
-        <div id='fiverr-widget-seller-data' style='display: none;'>
-            <div itemprop='name' >parrasite9</div>
-            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
-            <div itemprop='jobtitle'>Seller</div>
-            <div itemprop='description'>As a skilled Software Engineer / Web Developer, I am excited about the opportunity to bring my passion for coding, business, and food to your project. With a strong background in coding, I have an innate understanding of the creative potential of web design, and I am always eager to push the limits of what is possible with my work.
-</div>
-        </div>
-    </a>
-</div>
-
-<script id='fiverr-seller-widget-script-31853610-92b0-4393-bbbd-9eb365d373d2' src='https://widgets.fiverr.com/api/v1/seller/parrasite9?widget_id=31853610-92b0-4393-bbbd-9eb365d373d2' data-config='{"category_name":"\n                                    Programming \u0026 Tech\n\n                            "}' async='true' defer='true'></script>
-
