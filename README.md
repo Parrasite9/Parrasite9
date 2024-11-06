@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=parrasite9" alt="parrasite9" /></a> </p>
 
-- 🔭 I’m currently working on [PeachyCleanPaws](https://github.com/Parrasite9/peachyCleanPaws)
+- 🔭 I’m currently working on [A Web Agency](https://github.com/Parrasite9/nextwave)
 
 - 🌱 I’m currently learning **React, Redux, & AWS**
 
-- ❤️ My favorite project is [Disney+ Clone](https://github.com/Parrasite9/disneyplus)
+- ❤️ My favorite project is [iPhone 15 Replica](www.iphonereplica.online)
 
-- 🤝 My most recent completed project [Cut Critic](https://cutcritic-940d1.web.app/)
+- 🤝 My most recent completed project [WayOut Kids](wayoutkids.s3-website-us-east-1.amazonaws.com/)
 
 - 👨‍💻 All of my major projects are available at [https://johnsonwebsolutions.com/](https://johnsonwebsolutions.com/)
 
