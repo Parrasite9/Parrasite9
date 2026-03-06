@@ -1,105 +1,110 @@
-# Isaiah Johnson
+<!-- HERO -->
 
-Software Engineer focused on building real-world systems — web platforms, automation tools, and product-driven applications.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1c1c1c,100:2e2e2e&height=120&section=header&text=Isaiah%20Johnson&fontSize=40&fontColor=ffffff"/>
+</p>
 
-Currently building software at **Big D Automation** and developing projects that combine **modern web engineering with industrial and operational systems**.
+<p align="center">
+Software Engineer • Builder • Entrepreneur
+</p>
 
----
-
-## What I Work With
-
-**Frontend**
-- React
-- TypeScript
-- Tailwind
-- Modern UI architecture
-
-**Backend**
-- Node.js
-- Express
-- Laravel
-- Python / Django
-
-**Data**
-- PostgreSQL
-- MongoDB
-- MySQL
-
-**Infrastructure**
-- AWS
-- Docker
-- Firebase
+<p align="center">
+<a href="https://linkedin.com/in/isaiah-johnson123">LinkedIn</a> •
+<a href="https://johnsonwebsolutions.com">Portfolio</a> •
+<a href="https://dribbble.com/parrasite9">Dribbble</a>
+</p>
 
 ---
 
-## Selected Projects
+# What I Build
 
-### Watchtower
-A monitoring platform designed for operational visibility and system oversight.
+Modern software systems where **web technology meets real-world operations**.
+
+My work spans:
+
+- product platforms  
+- automation systems  
+- industrial dashboards  
+- modern frontend experiences  
+
+---
+
+# Featured Work
+
+## Watchtower
+
+Operational monitoring platform designed for system visibility and oversight.
 
 Focus:
-- Real-time system monitoring
-- Dashboard architecture
-- Scalable UI patterns
+
+• system telemetry  
+• monitoring dashboards  
+• operational intelligence  
 
 ---
 
-### PointGuard
-A security and monitoring platform focused on operational safety and reliability.
+## PointGuard
+
+Security-focused platform built around monitoring, access control, and operational awareness.
 
 Focus:
-- Authentication systems
-- Role-based access
-- Data integrity and monitoring
+
+• authentication systems  
+• role-based access  
+• system monitoring  
 
 ---
 
-### Big D Mobile App
-Internal mobile application designed to support field operations and automation services.
+## Big D Mobile App
+
+Internal mobile platform supporting field technicians and automation workflows.
 
 Focus:
-- Operational workflows
-- Mobile-first design
-- Field data access
+
+• operational workflows  
+• field-data access  
+• service coordination  
 
 ---
 
-### iPhone 15 Replica
-A fully interactive product-style website inspired by Apple's presentation pages.
+## iPhone 15 Replica
 
-Features:
-- advanced animation
-- modern UI techniques
-- product storytelling through motion
+Interactive product-style website inspired by Apple’s product experiences.
 
-Live:
+Live Demo  
 https://www.iphonereplica.online
 
----
+Features
 
-## Current Work
-
-Building tools and systems that bridge:
-
-software engineering  
-industrial automation  
-operational visibility
+• advanced animation  
+• modern UI architecture  
+• storytelling through motion  
 
 ---
 
-## Links
+# Tech I Use
 
-Portfolio  
-https://johnsonwebsolutions.com
+<p align="center">
 
-LinkedIn  
-https://linkedin.com/in/isaiah-johnson123
+<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,laravel,python,django,postgres,mongodb,aws,docker,git" />
 
-Dribbble  
-https://dribbble.com/parrasite9
+</p>
 
 ---
 
-## Contact
+# GitHub
 
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=parrasite9&show_icons=true&hide_border=true&theme=default"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrasite9&layout=compact&hide_border=true"/>
+
+</p>
+
+---
+
+# Contact
+
+Email  
 johnsonisaiah13@yahoo.com
