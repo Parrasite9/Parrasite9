@@ -54,7 +54,7 @@ Nonprofit website redesign.
 
 * 🔭 Building **NextWave Web Agency**
 * 🌱 Expanding knowledge in **AWS and cloud architecture**
-* 👨‍💻 Portfolio: https://johnsonwebsolutions.com
+* 👨‍💻 Portfolio: https://NextWaveWebStudio.com
 * 💬 Ask me about **web development, automation systems, or startups**
 
 ---
