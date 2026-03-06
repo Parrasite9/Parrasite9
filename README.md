@@ -1,3 +1,9 @@
+<!-- HEADER IMAGE -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isaiah%20Johnson&fontSize=42&fontColor=ffffff"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Isaiah Johnson</h1>
 <h3 align="center">Software Engineer • Automation Systems • Web Platforms</h3>
 
@@ -13,7 +19,7 @@
 
 ---
 
-### About Me
+## About Me
 
 Software engineer focused on building **real-world software systems**, from modern web platforms to automation tools used in operational environments.
 
@@ -21,7 +27,7 @@ Currently developing software at **Big D Automation** while building independent
 
 ---
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 **🛰 Watchtower**
 Operational monitoring platform designed for system telemetry and visibility.
@@ -33,18 +39,18 @@ Security-focused monitoring platform built around authentication and system over
 Internal mobile application supporting field technicians and automation workflows.
 
 **🍎 iPhone 15 Replica**
-Interactive Apple-style product experience built with modern frontend animation.
+Interactive Apple-style product experience.
 
 🔗 https://www.iphonereplica.online
 
 **🤝 WayOut Kids**
-Nonprofit website redesign project.
+Nonprofit website redesign.
 
 🔗 http://wayoutkids.s3-website-us-east-1.amazonaws.com/
 
 ---
 
-### 🌱 Currently Working On
+## 🌱 Currently Working On
 
 * 🔭 Building **NextWave Web Agency**
 * 🌱 Expanding knowledge in **AWS and cloud architecture**
@@ -53,7 +59,7 @@ Nonprofit website redesign project.
 
 ---
 
-### 🧠 Tech Stack
+## 🧠 Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,php,laravel,python,django,postgres,mongodb,firebase,aws,docker,git"/>
@@ -61,7 +67,7 @@ Nonprofit website redesign project.
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://linkedin.com/in/isaiah-johnson123">
@@ -75,23 +81,19 @@ Nonprofit website redesign project.
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parrasite9&show_icons=true&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=parrasite9&show_icons=true&hide_border=true&count_private=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrasite9&layout=compact&hide_border=true"/>
 
 </p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parrasite9&hide_border=true"/>
-</p>
-
 ---
 
-### 📫 Contact
+## 📫 Contact
 
 **[johnsonisaiah13@yahoo.com](mailto:johnsonisaiah13@yahoo.com)**
 
