@@ -23,25 +23,37 @@ I like personality in software, a little flash when it makes sense, and making t
 
 ---
 
-## 🌲 Jungle / Support Main Thoughts
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
+<b>🌲 Jungle / Support Main Thoughts</b>
 
 - tracking enemy jungle  
 - sweeping wards like a professional janitor  
 - watching top lane die **5 times before 10 minutes**  
 - typing **"we scale"** when we absolutely do not
 
----
+</td>
 
-## 🧠 Fun Facts
+<td width="50%" valign="top">
+
+<b>🧠 Fun Facts</b>
 
 - I will absolutely judge bad spacing  
 - I like software that feels alive  
 - I probably have **6 unfinished ideas** right now  
 - yes, I do think this README **needs aura**
 
+</td>
+
+</tr>
+</table>
+
 ---
 
-<table width="100%">
+<table width="90%" align="center">
 <tr>
 
 <td width="33%" valign="top">
@@ -56,10 +68,10 @@ J. Cole — Poor Thang<br>
 </tr>
 <tr>
 <td align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRydmh3Zm1nMXZubHBzOGVlNjdiMmZqeTQ0bWttYm1qN3ZzaWNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxLvk3eAX1enbBI17X/giphy.gif" width="120">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRydmh3Zm1nMXZubHBzOGVlNjdiMmZqeTQ0bWttYm1qN3ZzaWNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxLvk3eAX1enbBI17X/giphy.gif" width="90">
 </td>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120" alt="Gnome puking rainbows gif">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="90">
 </td>
 </tr>
 </table>
@@ -72,16 +84,16 @@ J. Cole — Poor Thang<br>
 <tr>
 <td colspan="2" align="center">
 <b>🎧 Profile Soundtrack</b><br>
-Ashanti - Southside<br>
+Ashanti — Southside<br>
 <sub>current profile soundtrack</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2bmo1cHczeWthZG5yZXg5c2YxamIzMzUyenc5aDhubWpyOG10cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYzeFNbEu4uwoUfG8m/giphy.gif" width="120" alt="Ashanti image">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2bmo1cHczeWthZG5yZXg5c2YxamIzMzUyenc5aDhubWpyOG10cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYzeFNbEu4uwoUfG8m/giphy.gif" width="90">
 </td>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120" alt="Gnome puking rainbows gif">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="90">
 </td>
 </tr>
 </table>
@@ -94,16 +106,16 @@ Ashanti - Southside<br>
 <tr>
 <td colspan="2" align="center">
 <b>🎧 Profile Soundtrack</b><br>
-UGK - Int player anthem<br>
+UGK — Int Player Anthem<br>
 <sub>current profile soundtrack</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNteTY5c2d2azNtOWpldGs5dWIxZDF6cjJ3a2NuMGIzMWFxb3RobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76x9GB4posd3i/giphy.gif" width="120" alt="Int player anthem gif">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNteTY5c2d2azNtOWpldGs5dWIxZDF6cjJ3a2NuMGIzMWFxb3RobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76x9GB4posd3i/giphy.gif" width="90">
 </td>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120" alt="Gnome puking rainbows gif">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="90">
 </td>
 </tr>
 </table>
@@ -112,7 +124,6 @@ UGK - Int player anthem<br>
 
 </tr>
 </table>
-
 
 ---
 
