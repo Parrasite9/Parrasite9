@@ -1,102 +1,27 @@
-<!-- HEADER IMAGE -->
+# 💫 About Me:
+I’m a software engineer focused on building practical systems that solve real problems. My work ranges from modern web platforms to software used in automation and operational environments. I enjoy designing products from the ground up and turning ideas into tools people actually use.
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Isaiah%20Johnson&fontSize=42&fontColor=ffffff"/>
-</p>
 
-<h1 align="center">Hi 👋, I'm Isaiah Johnson</h1>
-<h3 align="center">Software Engineer • Automation Systems • Web Platforms</h3>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaiah-johnson123) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnsonisaiah13@yahoo.com) 
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=parrasite9&label=Profile%20Views&color=0e75b6&style=flat" alt="parrasite9"/>
-</p>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=#D04A37) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=plastic&logo=sentry&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Parrasite9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Parrasite9&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parrasite9&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=parrasite9&theme=flat&margin-w=10"/>
-</a>
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Parrasite9&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## About Me
-
-Software engineer focused on building **real-world software systems**, from modern web platforms to automation tools used in operational environments.
-
-Currently developing software at **Big D Automation** while building independent products and web platforms.
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Parrasite9&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Parrasite9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🚀 Featured Projects
-
-**🛰 Watchtower**
-Operational monitoring platform designed for system telemetry and visibility.
-
-**🛡 PointGuard**
-Security-focused monitoring platform built around authentication and system oversight.
-
-**📱 Big D Mobile App**
-Internal mobile application supporting field technicians and automation workflows.
-
-**🍎 iPhone 15 Replica**
-Interactive Apple-style product experience.
-
-🔗 https://www.iphonereplica.online
-
-**🤝 WayOut Kids**
-Nonprofit website redesign.
-
-🔗 http://wayoutkids.s3-website-us-east-1.amazonaws.com/
-
----
-
-## 🌱 Currently Working On
-
-* 🔭 Building **NextWave Web Agency**
-* 🌱 Expanding knowledge in **AWS and cloud architecture**
-* 👨‍💻 Portfolio: https://NextWaveWebStudio.com
-* 💬 Ask me about **web development, automation systems, or startups**
-
----
-
-## 🧠 Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,nodejs,express,php,laravel,python,django,postgres,mongodb,firebase,aws,docker,git"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-<a href="https://linkedin.com/in/isaiah-johnson123">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35"/>
-</a>
-
-<a href="https://dribbble.com/parrasite9">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dribbble/dribbble-original.svg" width="35"/>
-</a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=parrasite9&show_icons=true&hide_border=true&count_private=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parrasite9&layout=compact&hide_border=true"/>
-
-</p>
-
----
-
-## 📫 Contact
-
-**[johnsonisaiah13@yahoo.com](mailto:johnsonisaiah13@yahoo.com)**
-
----
-
-⭐ Thanks for visiting my profile. Feel free to explore my repositories and connect.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
