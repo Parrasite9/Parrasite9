@@ -1,15 +1,123 @@
-<p align="left">
+<p align="center">
   <img src="https://readme-stats-github.pages.dev/api/typing?lines=Best%20Looking%20Developer%20." height="180" alt="Typing SVG" />
 </p>
 
-# 💫 About Me:
-I’m a software engineer focused on building practical systems that solve real problems. My work ranges from modern web platforms to software used in automation and operational environments. I enjoy designing products from the ground up and turning ideas into tools people actually use.
+<p align="center"><b>yes the title is accurate</b></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaiah-johnson123)
+---
+
+# 💫 A Little About Me
+
+I build cool stuff, overthink design, and genuinely enjoy turning random ideas into real products.  
+Most of what I make lives somewhere between web, automation, mobile, and “this would be funny if it actually worked.”  
+I like personality in software, a little flash when it makes sense, and making things people actually want to touch.
+
+> software should feel alive or what are we even doing
+
+---
+
+## 🌍 Find Me Around The Internet
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaiah-johnson123)  
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnsonisaiah13@yahoo.com)
 
-# 💻 Tech Stack:
+---
+
+## 🌲 Jungle / Support Main Thoughts
+
+- tracking enemy jungle  
+- sweeping wards like a professional janitor  
+- watching top lane die **5 times before 10 minutes**  
+- typing **"we scale"** when we absolutely do not
+
+---
+
+## 🧠 Fun Facts
+
+- I will absolutely judge bad spacing  
+- I like software that feels alive  
+- I probably have **6 unfinished ideas** right now  
+- yes, I do think this README **needs aura**
+
+---
+
+<table width="100%">
+<tr>
+
+<td width="33%" valign="top">
+
+<table border="0" width="100%">
+<tr>
+<td colspan="2" align="center">
+<b>🎧 Profile Soundtrack</b><br>
+J. Cole — Poor Thang<br>
+<sub>current profile soundtrack</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+</td>
+<td align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="33%" valign="top">
+
+<table border="0" width="100%">
+<tr>
+<td colspan="2" align="center">
+<b>🎧 Profile Soundtrack</b><br>
+J. Cole — Poor Thang<br>
+<sub>current profile soundtrack</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+</td>
+<td align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="33%" valign="top">
+
+<table border="0" width="100%">
+<tr>
+<td colspan="2" align="center">
+<b>🎧 Profile Soundtrack</b><br>
+J. Cole — Poor Thang<br>
+<sub>current profile soundtrack</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+</td>
+<td align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
+
+---
+
+# 🧰 Stuff I Build With (and occasionally fight with)
+
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
@@ -38,35 +146,22 @@ I’m a software engineer focused on building practical systems that solve real 
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white)
 
-# 📊 GitHub Stats:
+---
+
+# 📊 Evidence That I Actually Push Code
 
 <p align="left">
   <img src="https://trophy.ryglcloud.net/?username=Parrasite9&theme=dracula&column=-1&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" />
 </p>
 
-<table border="0">
-  <tr>
-    <td valign="top">
-      <img src="https://streak-stats.demolab.com?user=Parrasite9&theme=nightowl" height="180" alt="GitHub Streak" />
-    </td>
-    <td valign="top">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Parrasite9&theme=dracula" height="180" alt="Top languages by repo" />
-    </td>
-    <td valign="top">
-      <a href="https://git.io/awesome-stats-card">
-        <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Parrasite9?cardType=level&theme=tokyonight&fontFamily=&preferLogin=false" height="180" alt="My Awesome Stats" />
-      </a>
-    </td>
-  </tr>
-</table>
+---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+# 🔝 Contribution Map
 
-### 🔝 Top Contribution
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parrasite9&theme=dracula)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Parrasite9&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### ✍️ Random Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
