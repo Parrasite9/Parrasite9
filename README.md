@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Best%20Looking%20Developer%20." height="180" alt="Typing SVG" />
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=BEST%20LOOKING%20DEVELOPER%20." height="180" alt="Typing SVG" />
 </p>
 
-<p align="center"><b>yes the title is accurate</b></p>
+<p align="center"><b>YES the title is accurate, I dont make the rules.</b></p>
 
 ---
 
@@ -56,10 +56,10 @@ J. Cole — Poor Thang<br>
 </tr>
 <tr>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRydmh3Zm1nMXZubHBzOGVlNjdiMmZqeTQ0bWttYm1qN3ZzaWNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxLvk3eAX1enbBI17X/giphy.gif" width="120">
 </td>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120" alt="Gnome puking rainbows gif">
 </td>
 </tr>
 </table>
@@ -72,16 +72,16 @@ J. Cole — Poor Thang<br>
 <tr>
 <td colspan="2" align="center">
 <b>🎧 Profile Soundtrack</b><br>
-J. Cole — Poor Thang<br>
+Ashanti - Southside<br>
 <sub>current profile soundtrack</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2bmo1cHczeWthZG5yZXg5c2YxamIzMzUyenc5aDhubWpyOG10cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYzeFNbEu4uwoUfG8m/giphy.gif" width="120" alt="Ashanti image">
 </td>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120" alt="Gnome puking rainbows gif">
 </td>
 </tr>
 </table>
@@ -94,16 +94,16 @@ J. Cole — Poor Thang<br>
 <tr>
 <td colspan="2" align="center">
 <b>🎧 Profile Soundtrack</b><br>
-J. Cole — Poor Thang<br>
+UGK - Int player anthem<br>
 <sub>current profile soundtrack</sub>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNteTY5c2d2azNtOWpldGs5dWIxZDF6cjJ3a2NuMGIzMWFxb3RobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76x9GB4posd3i/giphy.gif" width="120" alt="Int player anthem gif">
 </td>
 <td align="center">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="120" alt="Gnome puking rainbows gif">
 </td>
 </tr>
 </table>
