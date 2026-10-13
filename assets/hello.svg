@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Best looking developer.</title>
+  <desc id="desc">Isaiah's corner of the internet. Yes, the title is accurate. I don't make the rules.</desc>
+  <rect width="1200" height="380" rx="22" fill="#20182b"/>
+  <circle cx="1120" cy="60" r="220" fill="#34233f"/>
+  <circle cx="1120" cy="60" r="165" fill="none" stroke="#50335e" stroke-width="2"/>
+  <path d="M1010 255h100m-50-50v100" stroke="#d6f78b" stroke-width="3"/>
+  <circle cx="1084" cy="282" r="7" fill="#c2a1e4"/>
+  <text x="64" y="65" fill="#d6f78b" font-family="monospace" font-size="18" letter-spacing="3">ISAIAH'S CORNER OF THE INTERNET</text>
+  <text x="60" y="155" fill="#f8f1e7" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-3">BEST LOOKING</text>
+  <text x="60" y="238" fill="#f8f1e7" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="800" letter-spacing="-3">DEVELOPER<tspan fill="#d6f78b">.</tspan></text>
+  <text x="64" y="310" fill="#cfbdd9" font-family="Arial, Helvetica, sans-serif" font-size="23">Yes, the title is accurate. I don't make the rules.</text>
+  <text x="64" y="350" fill="#cfbdd9" font-family="monospace" font-size="14" letter-spacing="2">APPS / SIDE QUESTS / QUESTIONABLE QUEUE DECISIONS</text>
+</svg>
