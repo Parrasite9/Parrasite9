@@ -2,11 +2,18 @@
   <img src="assets/hello.svg" width="100%" alt="Best looking developer. Yes, the title is accurate. I don't make the rules." />
 </p>
 
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=BEST%20LOOKING%20DEVELOPER%20." height="180" alt="Typing SVG" />
+</p>
+
 I'm **Isaiah**. I build apps, obsess over spacing, and queue jungle like I haven't learned my lesson.
 
 Web, mobile, automation, and the occasional “this would be funny if it actually worked.” I like a little flash, a lot of polish, and software that feels good to use.
 
-[Say hello](mailto:johnsonisaiah13@yahoo.com) · [LinkedIn](https://www.linkedin.com/in/isaiah-johnson123/) · [Explore my repos](https://github.com/Parrasite9?tab=repositories)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isaiah-johnson123/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:johnsonisaiah13@yahoo.com)
+
+[Explore my repos ↗](https://github.com/Parrasite9?tab=repositories)
 
 ---
 
@@ -42,9 +49,78 @@ Exploring pump controls over HTTP. A different kind of interface problem: what h
 
 Three tracks. Please respect the queue.
 
-- **J. Cole — Poor Thang** · headphones on, editor open.
-- **Southside — Ashanti / Lloyd** · a little early-2000s atmosphere.
-- **UGK — Int'l Players Anthem** · this one gets the room.
+<table width="90%" align="center">
+<tr>
+
+<td width="33%" valign="top">
+
+<table border="0" width="100%">
+<tr>
+<td colspan="2" align="center">
+<b>🎧 In rotation</b><br>
+J. Cole — Poor Thang<br>
+<sub>current profile soundtrack</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img alt="Soundtrack animation" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRydmh3Zm1nMXZubHBzOGVlNjdiMmZqeTQ0bWttYm1qN3ZzaWNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxLvk3eAX1enbBI17X/giphy.gif" width="90">
+</td>
+<td align="center">
+<img alt="Soundtrack animation" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="90">
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="33%" valign="top">
+
+<table border="0" width="100%">
+<tr>
+<td colspan="2" align="center">
+<b>🎧 In rotation</b><br>
+Ashanti — Southside<br>
+<sub>current profile soundtrack</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img alt="Soundtrack animation" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2bmo1cHczeWthZG5yZXg5c2YxamIzMzUyenc5aDhubWpyOG10cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYzeFNbEu4uwoUfG8m/giphy.gif" width="90">
+</td>
+<td align="center">
+<img alt="Soundtrack animation" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="90">
+</td>
+</tr>
+</table>
+
+</td>
+
+<td width="33%" valign="top">
+
+<table border="0" width="100%">
+<tr>
+<td colspan="2" align="center">
+<b>🎧 In rotation</b><br>
+UGK — Int Player Anthem<br>
+<sub>current profile soundtrack</sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img alt="Soundtrack animation" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNteTY5c2d2azNtOWpldGs5dWIxZDF6cjJ3a2NuMGIzMWFxb3RobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76x9GB4posd3i/giphy.gif" width="90">
+</td>
+<td align="center">
+<img alt="Soundtrack animation" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="90">
+</td>
+</tr>
+</table>
+
+</td>
+
+</tr>
+</table>
+
 
 <sub>The soundtrack may change. The spacing standards will not.</sub>
 
@@ -69,14 +145,58 @@ Three tracks. Please respect the queue.
 
 ---
 
-<details>
-<summary><b>The toolbox (and occasional source of my problems)</b></summary>
+## 🧰 Stuff I Build With (and occasionally fight with)
 
-**Interfaces:** React, React Native, Expo, TypeScript, JavaScript, Tailwind CSS.<br>
-**Behind the curtain:** Node.js, Laravel, SQL, MongoDB, Firebase, AWS.<br>
-**The finishing touches:** Figma, Illustrator, Sentry, Postman, Git.
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=plastic&logo=expo&logoColor=%23D04A37)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=plastic&logo=adobe%20illustrator&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+![Sentry](https://img.shields.io/badge/sentry-%23362D59.svg?style=plastic&logo=sentry&logoColor=white)
+![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=plastic&logo=bitwarden&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=plastic&logo=Twilio&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white)
 
-</details>
+---
+
+## 📊 Evidence That I Actually Push Code
+
+<p align="left">
+  <img src="https://trophy.ryglcloud.net/?username=Parrasite9&theme=dracula&column=-1&margin-w=8&margin-h=8&no-frame=true&no-bg=true" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🔝 Contribution Map
+
+![GitHub contribution map](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Parrasite9&theme=dracula)
+
+---
+
+### ✍️ Random Dev Quote
+
+![Random developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
 
 <br>
 
