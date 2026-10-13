@@ -43,53 +43,39 @@ Exploring pump controls over HTTP. A different kind of interface problem: what h
 
 ## Currently in rotation
 
-**The unofficial office soundtrack.** Three tracks. Please respect the queue.
+**Press play. Set the mood.** Full tracks, right here.
 
-<sub>Open a player below, press play, and unmute if needed. One track at a time, please.</sub>
+GitHub starts videos muted—use the speaker control to turn the sound on.
 
-<table width="100%">
-<tr>
-<td width="33%" align="center" valign="top">
-<img src="assets/rotation-01-spinning.gif" width="100%" alt="Track 01 — vinyl record and equalizer artwork" /><br>
-<sub>HEADPHONES ON</sub><br>
-<b>Poor Thang</b><br>
-J. Cole<br><br>
-<details>
-<summary>▶ Play Poor Thang</summary>
-<video src="https://github.com/user-attachments/assets/5df82536-5c28-44a0-96cd-2111f890b7cf" controls width="100%" aria-label="Play Poor Thang"></video>
-</details>
-<br>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRydmh3Zm1nMXZubHBzOGVlNjdiMmZqeTQ0bWttYm1qN3ZzaWNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxLvk3eAX1enbBI17X/giphy.gif" width="44%" alt="J. Cole soundtrack GIF" />
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="44%" alt="Dancing along to Poor Thang" />
-</td>
-<td width="33%" align="center" valign="top">
-<img src="assets/rotation-02-spinning.gif" width="100%" alt="Track 02 — vinyl record and equalizer artwork" /><br>
-<sub>AFTER HOURS</sub><br>
-<b>Southside</b><br>
-Ashanti / Lloyd<br><br>
-<details>
-<summary>▶ Play Southside</summary>
-<video src="https://github.com/user-attachments/assets/27f4921e-6453-4f6c-aad4-1621c78c0274" controls width="100%" aria-label="Play Southside"></video>
-</details>
-<br>
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2bmo1cHczeWthZG5yZXg5c2YxamIzMzUyenc5aDhubWpyOG10cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYzeFNbEu4uwoUfG8m/giphy.gif" width="44%" alt="Ashanti / Lloyd soundtrack GIF" />
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="44%" alt="Dancing along to Southside" />
-</td>
-<td width="33%" align="center" valign="top">
-<img src="assets/rotation-03-spinning.gif" width="100%" alt="Track 03 — vinyl record and equalizer artwork" /><br>
-<sub>DO NOT SKIP</sub><br>
-<b>Int’l Players Anthem</b><br>
-UGK<br><br>
-<details>
-<summary>▶ Play Int’l Players Anthem</summary>
-<video src="https://github.com/user-attachments/assets/afe2a792-4368-401c-8bc5-4d5c8e9809b7" controls width="100%" aria-label="Play Int’l Players Anthem"></video>
-</details>
-<br>
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNteTY5c2d2azNtOWpldGs5dWIxZDF6cjJ3a2NuMGIzMWFxb3RobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76x9GB4posd3i/giphy.gif" width="44%" alt="UGK soundtrack GIF" />
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="44%" alt="Dancing along to Int’l Players Anthem" />
-</td>
-</tr>
-</table>
+### 01 / Poor Thang — J. Cole
+
+<video src="https://github.com/user-attachments/assets/5df82536-5c28-44a0-96cd-2111f890b7cf" controls width="100%" aria-label="Play Poor Thang by J. Cole"></video>
+
+<p>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRydmh3Zm1nMXZubHBzOGVlNjdiMmZqeTQ0bWttYm1qN3ZzaWNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxLvk3eAX1enbBI17X/giphy.gif" width="70" alt="J. Cole soundtrack GIF" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="70" alt="Dancing along to Poor Thang" />
+<br><sub>HEADPHONES ON</sub>
+</p>
+
+### 02 / Southside — Lloyd / Ashanti
+
+<video src="https://github.com/user-attachments/assets/27f4921e-6453-4f6c-aad4-1621c78c0274" controls width="100%" aria-label="Play Southside by Lloyd / Ashanti"></video>
+
+<p>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2bmo1cHczeWthZG5yZXg5c2YxamIzMzUyenc5aDhubWpyOG10cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYzeFNbEu4uwoUfG8m/giphy.gif" width="70" alt="Lloyd / Ashanti soundtrack GIF" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="70" alt="Dancing along to Southside" />
+<br><sub>AFTER HOURS</sub>
+</p>
+
+### 03 / Int’l Players Anthem — UGK
+
+<video src="https://github.com/user-attachments/assets/afe2a792-4368-401c-8bc5-4d5c8e9809b7" controls width="100%" aria-label="Play Int’l Players Anthem by UGK"></video>
+
+<p>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNteTY5c2d2azNtOWpldGs5dWIxZDF6cjJ3a2NuMGIzMWFxb3RobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76x9GB4posd3i/giphy.gif" width="70" alt="UGK soundtrack GIF" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="70" alt="Dancing along to Int’l Players Anthem" />
+<br><sub>DO NOT SKIP</sub>
+</p>
 
 <sub>Headphones recommended. Skipping the third track is between you and your conscience.</sub>
 
