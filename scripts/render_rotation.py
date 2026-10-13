@@ -73,7 +73,7 @@ for track, source in enumerate(sorted((ROOT / 'assets').glob('rotation-*.svg')))
     # Use one palette throughout the animation to avoid color flicker.
     palette = frames[0].quantize(colors=128)
     frames = [f.quantize(palette=palette, dither=Image.Dither.NONE) for f in frames]
-    dest = source.with_suffix('.gif')
+    dest = source.with_name(source.stem + '-spinning.gif')
     frames[0].save(dest, save_all=True, append_images=frames[1:], duration=FRAME_MS,
                    loop=0, optimize=True, disposal=1)
     with Image.open(dest) as check:

@@ -48,7 +48,7 @@ Exploring pump controls over HTTP. A different kind of interface problem: what h
 <table width="100%">
 <tr>
 <td width="33%" align="center" valign="top">
-<img src="assets/rotation-01.gif" width="100%" alt="Track 01 — vinyl record and equalizer artwork" /><br>
+<img src="assets/rotation-01-spinning.gif" width="100%" alt="Track 01 — vinyl record and equalizer artwork" /><br>
 <sub>HEADPHONES ON</sub><br>
 <b>Poor Thang</b><br>
 J. Cole<br><br>
@@ -56,7 +56,7 @@ J. Cole<br><br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="44%" alt="Dancing along to Poor Thang" />
 </td>
 <td width="33%" align="center" valign="top">
-<img src="assets/rotation-02.gif" width="100%" alt="Track 02 — vinyl record and equalizer artwork" /><br>
+<img src="assets/rotation-02-spinning.gif" width="100%" alt="Track 02 — vinyl record and equalizer artwork" /><br>
 <sub>AFTER HOURS</sub><br>
 <b>Southside</b><br>
 Ashanti / Lloyd<br><br>
@@ -64,7 +64,7 @@ Ashanti / Lloyd<br><br>
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="44%" alt="Dancing along to Southside" />
 </td>
 <td width="33%" align="center" valign="top">
-<img src="assets/rotation-03.gif" width="100%" alt="Track 03 — vinyl record and equalizer artwork" /><br>
+<img src="assets/rotation-03-spinning.gif" width="100%" alt="Track 03 — vinyl record and equalizer artwork" /><br>
 <sub>DO NOT SKIP</sub><br>
 <b>Int’l Players Anthem</b><br>
 UGK<br><br>
