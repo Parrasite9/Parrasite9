@@ -43,82 +43,38 @@ Exploring pump controls over HTTP. A different kind of interface problem: what h
 
 ## Currently in rotation
 
-Three tracks. Please respect the queue.
+**The unofficial office soundtrack.** Three tracks. Please respect the queue.
 
-<table width="90%" align="center">
+<table width="100%">
 <tr>
-
-<td width="33%" valign="top">
-
-<table border="0" width="100%">
-<tr>
-<td colspan="2" align="center">
-<b>🎧 In rotation</b><br>
-J. Cole — Poor Thang<br>
-<sub>current profile soundtrack</sub>
+<td width="33%" align="center" valign="top">
+<img src="assets/rotation-01.svg" width="100%" alt="Track 01 — vinyl record and equalizer artwork" /><br>
+<sub>HEADPHONES ON</sub><br>
+<b>Poor Thang</b><br>
+J. Cole<br><br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRydmh3Zm1nMXZubHBzOGVlNjdiMmZqeTQ0bWttYm1qN3ZzaWNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxLvk3eAX1enbBI17X/giphy.gif" width="44%" alt="J. Cole soundtrack GIF" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="44%" alt="Dancing along to Poor Thang" />
 </td>
-</tr>
-<tr>
-<td align="center">
-<img alt="Soundtrack animation" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHRydmh3Zm1nMXZubHBzOGVlNjdiMmZqeTQ0bWttYm1qN3ZzaWNjbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VxLvk3eAX1enbBI17X/giphy.gif" width="90">
+<td width="33%" align="center" valign="top">
+<img src="assets/rotation-02.svg" width="100%" alt="Track 02 — vinyl record and equalizer artwork" /><br>
+<sub>AFTER HOURS</sub><br>
+<b>Southside</b><br>
+Ashanti / Lloyd<br><br>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2bmo1cHczeWthZG5yZXg5c2YxamIzMzUyenc5aDhubWpyOG10cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYzeFNbEu4uwoUfG8m/giphy.gif" width="44%" alt="Ashanti / Lloyd soundtrack GIF" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="44%" alt="Dancing along to Southside" />
 </td>
-<td align="center">
-<img alt="Soundtrack animation" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="90">
-</td>
-</tr>
-</table>
-
-</td>
-
-<td width="33%" valign="top">
-
-<table border="0" width="100%">
-<tr>
-<td colspan="2" align="center">
-<b>🎧 In rotation</b><br>
-Ashanti — Southside<br>
-<sub>current profile soundtrack</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img alt="Soundtrack animation" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjk2bmo1cHczeWthZG5yZXg5c2YxamIzMzUyenc5aDhubWpyOG10cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YYzeFNbEu4uwoUfG8m/giphy.gif" width="90">
-</td>
-<td align="center">
-<img alt="Soundtrack animation" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="90">
+<td width="33%" align="center" valign="top">
+<img src="assets/rotation-03.svg" width="100%" alt="Track 03 — vinyl record and equalizer artwork" /><br>
+<sub>DO NOT SKIP</sub><br>
+<b>Int’l Players Anthem</b><br>
+UGK<br><br>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNteTY5c2d2azNtOWpldGs5dWIxZDF6cjJ3a2NuMGIzMWFxb3RobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76x9GB4posd3i/giphy.gif" width="44%" alt="UGK soundtrack GIF" />
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="44%" alt="Dancing along to Int’l Players Anthem" />
 </td>
 </tr>
 </table>
 
-</td>
-
-<td width="33%" valign="top">
-
-<table border="0" width="100%">
-<tr>
-<td colspan="2" align="center">
-<b>🎧 In rotation</b><br>
-UGK — Int Player Anthem<br>
-<sub>current profile soundtrack</sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img alt="Soundtrack animation" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTNteTY5c2d2azNtOWpldGs5dWIxZDF6cjJ3a2NuMGIzMWFxb3RobyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/76x9GB4posd3i/giphy.gif" width="90">
-</td>
-<td align="center">
-<img alt="Soundtrack animation" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3IwOTB4N2k4c2lvZXE4NzU0ZGVnM2lncG5kNnpvNDFnYnoxY3k4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/143mJNJBPGuQxy/giphy.gif" width="90">
-</td>
-</tr>
-</table>
-
-</td>
-
-</tr>
-</table>
-
-
-<sub>The soundtrack may change. The spacing standards will not.</sub>
+<sub>Headphones recommended. Skipping the third track is between you and your conscience.</sub>
 
 ---
 
