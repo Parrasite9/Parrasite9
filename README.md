@@ -2,10 +2,6 @@
   <img src="assets/hello.svg" width="100%" alt="Best looking developer. Yes, the title is accurate. I don't make the rules." />
 </p>
 
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=BEST%20LOOKING%20DEVELOPER%20." height="180" alt="Typing SVG" />
-</p>
-
 I'm **Isaiah**. I build apps, obsess over spacing, and queue jungle like I haven't learned my lesson.
 
 Web, mobile, automation, and the occasional “this would be funny if it actually worked.” I like a little flash, a lot of polish, and software that feels good to use.
