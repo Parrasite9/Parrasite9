@@ -1,5 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="360" height="180" viewBox="0 0 360 180" role="img" aria-labelledby="title">
 <title id="title">Track 01: Poor Thang — J. Cole</title>
+<style>
+  .equalizer-bar {
+    transform-box: fill-box;
+    transform-origin: center bottom;
+    animation: bounce 1s ease-in-out infinite;
+  }
+  @keyframes bounce {
+    0%, 100% { transform: scaleY(.25); }
+    20% { transform: scaleY(.85); }
+    40% { transform: scaleY(.4); }
+    65% { transform: scaleY(1); }
+    85% { transform: scaleY(.55); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .equalizer-bar { animation: none; }
+  }
+</style>
 <rect width="360" height="180" rx="14" fill="#20182b"/>
 <circle cx="115" cy="90" r="73" fill="#141019" stroke="#50335e"/>
 <g fill="none" stroke="#34233f"><circle cx="115" cy="90" r="62"/><circle cx="115" cy="90" r="53"/><circle cx="115" cy="90" r="44"/></g>
@@ -7,6 +24,6 @@
 <circle cx="115" cy="90" r="6" fill="#20182b"/>
 <path d="M65 42a70 70 0 0 1 50-22M115 160a70 70 0 0 0 50-22" stroke="#cfbdd9" opacity=".35" fill="none"/>
 <text x="231" y="42" fill="#d6f78b" font-family="monospace" font-size="16" letter-spacing="2">SIDE 01</text>
-<rect x="230" y="94" width="5" height="16" rx="2" fill="#d6f78b"/><rect x="242" y="78" width="5" height="32" rx="2" fill="#d6f78b"/><rect x="254" y="64" width="5" height="46" rx="2" fill="#d6f78b"/><rect x="266" y="83" width="5" height="27" rx="2" fill="#d6f78b"/><rect x="278" y="53" width="5" height="57" rx="2" fill="#d6f78b"/><rect x="290" y="71" width="5" height="39" rx="2" fill="#d6f78b"/><rect x="302" y="88" width="5" height="22" rx="2" fill="#d6f78b"/>
+<rect class="equalizer-bar" style="animation-duration:0.83s;animation-delay:-0.00s" x="230" y="94" width="5" height="16" rx="2" fill="#d6f78b"/><rect class="equalizer-bar" style="animation-duration:1.17s;animation-delay:-0.19s" x="242" y="78" width="5" height="32" rx="2" fill="#d6f78b"/><rect class="equalizer-bar" style="animation-duration:0.96s;animation-delay:-0.38s" x="254" y="64" width="5" height="46" rx="2" fill="#d6f78b"/><rect class="equalizer-bar" style="animation-duration:1.31s;animation-delay:-0.57s" x="266" y="83" width="5" height="27" rx="2" fill="#d6f78b"/><rect class="equalizer-bar" style="animation-duration:0.74s;animation-delay:-0.76s" x="278" y="53" width="5" height="57" rx="2" fill="#d6f78b"/><rect class="equalizer-bar" style="animation-duration:1.08s;animation-delay:-0.95s" x="290" y="71" width="5" height="39" rx="2" fill="#d6f78b"/><rect class="equalizer-bar" style="animation-duration:0.89s;animation-delay:-1.14s" x="302" y="88" width="5" height="22" rx="2" fill="#d6f78b"/>
 <text x="230" y="149" fill="#cfbdd9" font-family="monospace" font-size="11" letter-spacing="1">ON REPEAT</text>
 </svg>
