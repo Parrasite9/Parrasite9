@@ -45,7 +45,12 @@ Exploring pump controls over HTTP. A different kind of interface problem: what h
 
 **The unofficial office soundtrack.** Three tracks. Please respect the queue.
 
-[**Enter the listening room ↗**](https://parrasite9.github.io/Parrasite9/) · Pick a record, flip the sleeve, and press play.
+<a href="https://parrasite9.github.io/Parrasite9/" aria-label="Enter Isaiah’s listening room">
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/listening-room-entry.png" />
+  <img src="assets/listening-room-entry.gif" width="100%" alt="ENTER THE LISTENING ROOM — Pick a record. Flip the sleeve. Press play. Click to step inside." />
+</picture>
+</a>
 
 <sub>Click a record below to open the room with that track selected.</sub>
 
